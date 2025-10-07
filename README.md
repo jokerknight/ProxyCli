@@ -1,4 +1,4 @@
-英文 [中文](https://github.com/jokerknight/ProxyManager/blob/main/README_CN.md) 
+英文 [中文](https://github.com/jokerknight/ProxyCli/blob/main/README_CN.md) 
 # Proxy Management Script
 
 A lightweight, powerful proxy management script for Bash and Zsh, onekey config  http_proxy,https_proxy,socks5_proxy,all_proxy by cli.
@@ -17,13 +17,13 @@ A lightweight, powerful proxy management script for Bash and Zsh, onekey config 
 ### One-line Install 
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/jokerknight/ProxyManager/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/jokerknight/ProxyCli/main/install.sh)
 ```
 
 ### One-line Uninstall 
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/jokerknight/ProxyManager/main/install.sh) --uninstall
+bash <(curl -Ls https://raw.githubusercontent.com/jokerknight/ProxyCli/main/install.sh) --uninstall
 ```
 
 ### Manual Install 
@@ -31,8 +31,8 @@ bash <(curl -Ls https://raw.githubusercontent.com/jokerknight/ProxyManager/main/
 1. Clone repository:  
 
    ```bash
-   git clone https://github.com/jokerknight/ProxyManager.git
-   cd ProxyManager
+   git clone https://github.com/jokerknight/ProxyCli.git
+   cd ProxyCli
    ```
 
 2. Run installer:  
@@ -73,7 +73,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/jokerknight/ProxyManager/main/
 ## Project Structure
 
 ```
-ProxyManager/
+ProxyCli/
 ├── LICENSE                 # MIT License
 ├── README.md               # Bilingual documentation
 ├── README_CN.md            # Chinese documentation (中文文档)
@@ -87,7 +87,7 @@ ProxyManager/
 Contributions are welcome! Please open an issue or submit a pull request.  
 
 
-[View on GitHub](https://github.com/jokerknight/ProxyManager)
+[View on GitHub](https://github.com/jokerknight/ProxyCli)
 
 ## License 
 

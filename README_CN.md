@@ -17,21 +17,21 @@
 ### 一行命令安装
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/jokerknight/ProxyManager/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/jokerknight/ProxyCli/main/install.sh)
 ```
 
 ### 一行命令卸载
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/jokerknight/ProxyManager/main/install.sh) --uninstall
+bash <(curl -Ls https://raw.githubusercontent.com/jokerknight/ProxyCli/main/install.sh) --uninstall
 ```
 
 ### 手动安装
 
 1. 克隆仓库:
    ```bash
-   git clone https://github.com/jokerknight/ProxyManager.git
-   cd ProxyManager
+   git clone https://github.com/jokerknight/ProxyCli.git
+   cd ProxyCli
    ```
 
 2. 运行安装脚本:
@@ -70,7 +70,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/jokerknight/ProxyManager/main/
 ## 项目结构
 
 ```
-ProxyManager/
+ProxyCli/
 ├── LICENSE                 # MIT 许可证
 ├── README.md               # 中英文双语文档
 ├── README_CN.md            # 中文文档
@@ -83,7 +83,7 @@ ProxyManager/
 
 欢迎提交 issue 或 pull request 来改进本项目。
 
-[在 GitHub 上查看](https://github.com/jokerknight/ProxyManager)
+[在 GitHub 上查看](https://github.com/jokerknight/ProxyCli)
 
 ## 许可证
 
