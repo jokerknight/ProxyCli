@@ -72,7 +72,7 @@ bash <(curl -Ls https://raw.githubusercontent.com/jokerknight/ProxyCli/main/inst
 ```
 ProxyCli/
 ├── LICENSE                 # MIT 许可证
-├── README.md               # 中英文双语文档
+├── README.md               # 英文文档
 ├── README_CN.md            # 中文文档
 ├── install.sh               # 安装脚本
 └── src/
